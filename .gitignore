@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+data/vector_db/
+chroma_db/
+data/knowledge_base.json
+data/chunks.json
+data/docs_info.json
